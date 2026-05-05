@@ -12,9 +12,9 @@
    
    i. Intro to DL: practicals: (1) Simple Perceptron;  (2) TOY_DL
    
-   ii. RNN
+   ii. RNN: MLP_Indians
    
-   iii. CNN
+   iii. CNN: Slide and Practical CNN
    
      
 5. Book for detail maths: https://www.deeplearningbook.org/
