@@ -12,7 +12,7 @@
    
    i. Intro to DL: practicals: (1) Simple Perceptron;  (2) TOY_DL
    
-   ii. RNN: MLP_Indians
+   ii. RNN: Practical: MLP_Indians
    
    iii. CNN: Slide and Practical CNN
    
